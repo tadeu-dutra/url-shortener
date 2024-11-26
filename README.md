@@ -9,7 +9,7 @@ The application consists of two main AWS Lambda functions:
 - **create-short-url-lambda**: This function generates and stores the shortened links in an S3 Bucket, along with the original URL and its expiration time.
 - **redirect-short-url-lambda**: This function handles the redirection process by verifying the shortened URL and checking if it is still valid based on its expiration time before redirecting the user.
 
-![alt text](docs/{9A8BA0DA-1B35-43AE-8EE5-D167108B53C3}.png)
+![alt text](docs/{E59DEBDB-A04F-4F97-AAB9-1CF925BA9D23}.png)
 
 ## Getting Started
 
