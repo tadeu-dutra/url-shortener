@@ -39,7 +39,7 @@ mvn clean install
 mvn exec:java -Dexec.mainClass="com.example.App"
 ```
 
-## Now, let's start project implementation
+## Update Maven Configuration
 
 Add the following dependencies:
 
